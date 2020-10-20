@@ -1,0 +1,51 @@
+System : Linux
+O/S Version: ('Ubuntu', '20.04', 'focal')
+IP Adress: 186.95.116.186
+Hostname: gustavo-VIT-P2400
+Local Groups:
+['audio', 'avahi', 'avahi-autoipd', 'backup', 'bin', 'colord', 'daemon', 'games', 'gdm', 'geoclue', 'gnats', 'gustavo', 'irc', 'list', 'lp', 'lpadmin', 'mail', 'man', 'messagebus', 'mysql', 'news', 'nm-openvpn', 'nogroup', 'plugdev', 'proxy', 'pulse', 'root', 'rtkit', 'saned', 'sys', 'syslog', 'systemd-coredump', 'systemd-network', 'systemd-resolve', 'systemd-timesync', 'tcpdump', 'tss', 'uucp', 'uuidd', 'whoopsie', 'www-data']
+Local Users (System and Regular):
+['_apt', 'avahi', 'avahi-autoipd', 'backup', 'bin', 'colord', 'cups-pk-helper', 'daemon', 'dnsmasq', 'games', 'gdm', 'geoclue', 'gnats', 'gnome-initial-setup', 'gustavo', 'hplip', 'irc', 'kernoops', 'list', 'lp', 'mail', 'man', 'messagebus', 'mysql', 'news', 'nm-openvpn', 'nobody', 'proxy', 'pulse', 'root', 'rtkit', 'saned', 'speech-dispatcher', 'sshd', 'sync', 'sys', 'syslog', 'systemd-coredump', 'systemd-network', 'systemd-resolve', 'systemd-timesync', 'tcpdump', 'tss', 'usbmux', 'uucp', 'uuidd', 'whoopsie', 'www-data']
+Users (Regular only):
+nobody
+gustavo
+Services:[+] for running services, [–] for stopped services and [?] for services without a ‘status’
+ [ + ]  acpid
+ [ - ]  alsa-utils
+ [ - ]  anacron
+ [ + ]  apparmor
+ [ + ]  apport
+ [ + ]  avahi-daemon
+ [ + ]  bluetooth
+ [ - ]  console-setup.sh
+ [ + ]  cron
+ [ + ]  cups
+ [ + ]  cups-browsed
+ [ + ]  dbus
+ [ + ]  gdm3
+ [ + ]  grub-common
+ [ - ]  hwclock.sh
+ [ + ]  irqbalance
+ [ + ]  kerneloops
+ [ - ]  keyboard-setup.sh
+ [ + ]  kmod
+ [ + ]  mysql
+ [ + ]  network-manager
+ [ + ]  openvpn
+ [ - ]  plymouth
+ [ - ]  plymouth-log
+ [ - ]  pppd-dns
+ [ + ]  procps
+ [ - ]  pulseaudio-enable-autospawn
+ [ - ]  rsync
+ [ + ]  rsyslog
+ [ - ]  saned
+ [ - ]  speech-dispatcher
+ [ - ]  spice-vdagent
+ [ + ]  ssh
+ [ + ]  udev
+ [ + ]  ufw
+ [ + ]  unattended-upgrades
+ [ - ]  uuidd
+ [ + ]  whoopsie
+ [ - ]  x11-common
